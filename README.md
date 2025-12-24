@@ -46,7 +46,7 @@ ox_lib (if used)
 📌 Script designed for performance and simplicity, without unnecessary features.
 <img width="2560" height="1440" alt="Frame 4 (1)" src="https://github.com/user-attachments/assets/574ee6ff-fc04-4445-a9ff-4346a8a45a99" />
 
-
-https://github.com/user-attachments/assets/1bf3b366-7e18-4ef2-8a61-2f9dbe02466e
+#Preview
+https://screenapp.io/app/v/iTisdMvDdC
 
 
